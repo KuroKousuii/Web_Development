@@ -1,0 +1,30 @@
+/* Tag selectors  */
+body {
+  background-color: #08D9D6;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+ h3 {
+   color: #FF2E63;
+ }
+
+/* Class selectors */
+.broccoli {
+  background-color: red;
+}
+
+.circular:hover {
+  border-radius: 100%;
+  background-color: gold;
+}
+/* Id selectors */
+#name {
+  color: #EAEAEA;
+}
